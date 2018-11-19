@@ -1,0 +1,7 @@
+server:
+  port: 8101
+spring:
+  activemq:
+    user:
+    password: user
+    broker-url: tcp://172.30.23.181:61616
